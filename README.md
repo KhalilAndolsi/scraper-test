@@ -4,5 +4,6 @@ How to run this application:
 - npm i
 - npm start
 - open other terminal of client side
+- cd client
 - npm i
 - npm run dev
