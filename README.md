@@ -3,7 +3,7 @@ How to run this application:
 - cd server
 - npm i
 - npm start
-- open other terminal of client side
+- open other terminal
 - cd client
 - npm i
 - npm run dev
